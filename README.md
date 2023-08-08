@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceekaye-lipnica&" alt="ceekaye-lipnica" /></p>
 
 <h3 align="left">Github Contribution</h3>
-<div align="center"> <img src="https://raw.githubusercontent.com/ceekaye-lipnica/ceekaye-lipnica/main/snake.gif"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/ceekaye-lipnica/ceekaye-lipnica/main/snake.gif" autoplay> </div>
