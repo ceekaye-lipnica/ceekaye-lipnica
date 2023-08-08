@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceekaye-lipnica&show_icons=true&locale=en" alt="ceekaye-lipnica" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceekaye-lipnica&" alt="ceekaye-lipnica" /></p>
+
+<h3 align="left">Watch the snake eat my contribution </h3>
+<div align="center"> <img src="https://raw.githubusercontent.com/ceekaye-lipnica/ceekaye-lipnica/main/snake.gif"> </div>
