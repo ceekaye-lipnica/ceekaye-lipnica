@@ -1,9 +1,9 @@
-<h1 align="center">Hi! I'm Chelsea Kate Lipnica</h1>
+<h1 align="center">Hi 👋! I'm Chelsea Kate Lipnica</h1>
 <h3 align="center">A developer fueled by a passion for designing visually captivating and user-friendly websites.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceekaye-lipnica&label=Profile%20views&color=0e75b6&style=flat" alt="ceekaye-lipnica" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceekaye-lipnica&label=Profile%20views&color=0e75b6&style=flat" alt="ceekaye-lipnica" /> </p> 
 
 - 🔭 I worked as a Front-End Developer Intern **At Fronline Business Solutions, Inc (April - June 2023)**
 
@@ -30,5 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceekaye-lipnica&" alt="ceekaye-lipnica" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/ceekaye-lipnica/ceekaye-lipnica/blob/output/github-contribution-grid-snake.svg)
