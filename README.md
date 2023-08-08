@@ -30,6 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceekaye-lipnica&show_icons=true&locale=en" alt="ceekaye-lipnica" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceekaye-lipnica&" alt="ceekaye-lipnica" /></p>
-
-### 📈 My GitHub Contributions
-![snake gif](https://github.com/ceekaye-lipnica/ceekaye-lipnica/blob/output/github-contribution-grid-snake.gif)
