@@ -1,11 +1,7 @@
 <h1 align="center">Hi! I'm Chelsea Kate Lipnica</h1>
 <h3 align="center">A developer fueled by a passion for designing visually captivating and user-friendly websites.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceekaye-lipnica&label=Profile%20views&color=0e75b6&style=flat" alt="ceekaye-lipnica" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceekaye-lipnica" alt="ceekaye-lipnica" /></a> </p>
 
 - I worked as a Front-End Developer Intern **At Fronline Business Solutions, Inc (April - June 2023)**
 
