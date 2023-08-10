@@ -31,3 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceekaye-lipnica&" alt="ceekaye-lipnica" /></p>
 
+![snake animation](https://github.com/<seu ceekaye-lipnica>/<seu ceekaye-lipnica>/blob/output/github-contribution-grid-snake2.svg)
