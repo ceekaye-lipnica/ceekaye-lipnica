@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React JS, PHP, and WordPress**
 
-- 👨‍💻 All of my projects are available at [https://ziikey-portfolio.vercel.app/](https://ziikey-portfolio.vercel.app/)
+- 👨‍💻 Check out my portfolio at [https://ziikey-portfolio.vercel.app/](https://ziikey-portfolio.vercel.app/)
 
 - 📫 How to reach me **chelsealipnica@gmail.com**
 
