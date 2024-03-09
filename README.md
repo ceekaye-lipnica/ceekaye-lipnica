@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Chelsea Kate Lipnica</h1>
+<h1 align="center">Hi 👋! I'm Chelsea! </h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/ceekaye-lipnica/ceekaye-lipnica/main/github-banner.jpg"> </div>
 <h3 align="center">A developer fueled by passion for designing visually captivating and user-friendly websites.</h3>
 
